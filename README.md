@@ -48,11 +48,4 @@ I'm a versatile developer with experience in both **frontend** and **backend**, 
 
 ---
 
-
-### 📫 Let's Connect
-
-- **Portfolio:** [https://cj7mat.vercel.app/]
-
----
-
 ⭐️ *Inspired by creativity and open source.*
