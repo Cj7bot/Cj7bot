@@ -1,6 +1,6 @@
 # Hi there, I'm Mat! 👋
 
-### 🚀 Full Stack Developer | CS Engineer
+### 🚀 Full Stack Developer | Backend Engineer 
 
 ---
 
