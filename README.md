@@ -57,5 +57,8 @@ I'm a versatile developer with experience in both **frontend** and **backend**, 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cj7bot/Cj7bot/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Cj7bot/Cj7bot/output/github-snake.svg" />
 </picture>
+
+
+
 ---
 ⭐️ *Inspired by creativity and open source.*
