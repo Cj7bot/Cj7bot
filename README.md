@@ -47,5 +47,10 @@ I'm a versatile developer with experience in both **frontend** and **backend**, 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cj7bot/Cj7bot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cj7bot/Cj7bot/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Cj7bot/Cj7bot/output/github-snake.svg" />
+</picture>
+---
 ⭐️ *Inspired by creativity and open source.*
